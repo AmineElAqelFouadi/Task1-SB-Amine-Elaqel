@@ -1,6 +1,4 @@
-# ============================
-# StressTest_Combined_redis.py (updated)
-# ============================
+
 """
 Benchmark simple de Redis-based services para InsultService e InsultFilter.
 """

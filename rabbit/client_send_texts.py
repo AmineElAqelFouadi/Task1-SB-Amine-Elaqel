@@ -9,11 +9,10 @@ QUEUE_NAME = 'insult_filter_queue'
 # Ejemplos de textos, algunos con insultos típicos
 TEXTS = [
     "You are a genius!",
-    "What a fool you are.",
+    "Eres un tonto",
     "This is awesome.",
-    "You are such an idiot.",
+    "You are such a bobo",
     "I love programming.",
-    "Your work is dumb.",
     "Hello, have a nice day.",
     "You are a loser.",
     "That's clever.",
@@ -43,5 +42,4 @@ def send_texts(n=1000, delay=0):
     print(f"\nEnviados {n} mensajes a la cola '{QUEUE_NAME}'.")
 
 if __name__ == "__main__":
-    # Envía 1000 mensajes rápidamente; puedes ajustar el número y el delay
     send_texts(n=50000, delay=0)

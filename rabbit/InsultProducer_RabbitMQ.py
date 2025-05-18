@@ -8,8 +8,7 @@ INSULT_QUEUE = 'insult_queue'
 
 # Lista de insultos de ejemplo; puedes ampliarla
 INSULTS = [
-    "estúpido", "idiota", "tonto", "inútil",
-    "patán", "imbécil", "zopenco", "memo"
+    "loser", "moron", "tonto", "bobo",
 ]
 
 def main():

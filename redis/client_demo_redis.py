@@ -1,6 +1,4 @@
-# ============================
-# client_demo_redis.py
-# ============================
+
 """
 Demo script for both Redis-based services.
 """

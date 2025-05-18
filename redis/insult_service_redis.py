@@ -1,6 +1,4 @@
-# ============================
-# insult_service_redis.py
-# ============================
+
 """
 InsultService implemented over Redis:
 - Stores insults in a Redis set

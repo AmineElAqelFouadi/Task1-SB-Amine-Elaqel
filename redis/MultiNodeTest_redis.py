@@ -1,6 +1,4 @@
-# ============================
-# MultiNodeTest_redis.py
-# ============================
+
 """
 Static scaling performance analysis for Redis-based services.
 Spawn multiple worker instances to test speedup.

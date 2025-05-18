@@ -1,6 +1,4 @@
-# ============================
-# insult_filter_redis.py
-# ============================
+
 """
 InsultFilter service implemented over Redis (Work Queue pattern):
 - Clients enqueue filter_text or get_texts requests
